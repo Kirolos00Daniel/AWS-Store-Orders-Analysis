@@ -1,5 +1,3 @@
-Here is the README content in Markdown format:
-
 # **AWS Data Pipeline for Analytics and Visualization**
 
 ## **Overview**
