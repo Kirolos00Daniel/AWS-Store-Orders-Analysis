@@ -5,6 +5,8 @@ Here is the README content in Markdown format:
 ## **Overview**
 This project demonstrates an end-to-end data pipeline leveraging AWS services to perform data ingestion, transformation, querying, and visualization. The goal is to enable efficient data analysis by using scalable and serverless technologies like **Amazon S3**, **AWS Glue**, **Athena**, and **QuickSight**.
 
+![Screenshot 2024-12-07 161506](https://github.com/user-attachments/assets/6c3723cb-5218-4aa5-89f6-29d99f381951)
+
 ---
 
 ## **Workflow**
